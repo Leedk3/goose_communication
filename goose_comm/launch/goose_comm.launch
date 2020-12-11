@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="osm_name"              default="kaist_new.osm"/>
+
+  <node pkg="goose_comm" type="goose_comm_node" name="goose_comm_node" output="screen">
+    <param name="osm_name" value="$(arg osm_name)" />
+    
+  </node>
+
+</launch>

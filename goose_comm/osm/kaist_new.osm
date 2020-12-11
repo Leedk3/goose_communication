@@ -1,0 +1,2903 @@
+<?xml version="1.0"?>
+<osm version="0.6">
+  <node id="1" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36583395993069" lon="127.36392344140513" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="2" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36589811225783" lon="127.36383143803212" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="3" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36600113219956" lon="127.36373976604631" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="4" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36615455325286" lon="127.36363900862236" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="5" uid="7979" user="WWLEE" visible="true" version="1" lat="36.366313815695754" lon="127.36350073863504" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="6" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36658045631191" lon="127.36328044939002" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="7" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36683523552348" lon="127.36307739965332" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="8" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367157150257405" lon="127.36281696817115" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="9" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367239725641774" lon="127.36275146310197" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="10" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367959617902244" lon="127.36229843880966" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="11" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36827638647628" lon="127.3621138359625" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="12" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36861157463114" lon="127.36189355948564" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="13" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369064164972336" lon="127.36159703813134" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="14" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36918725600888" lon="127.36149275315411" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="15" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36945030365792" lon="127.36126613465207" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="16" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369741356637626" lon="127.36102266611375" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="17" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36984792017255" lon="127.36092486188033" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="18" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36994989649377" lon="127.36082483353596" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="19" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37015722966141" lon="127.36059062867831" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="20" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37032560290866" lon="127.36040260734076" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="21" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37049320704738" lon="127.36018552440702" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="22" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37057739909703" lon="127.36006830222858" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="23" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370738161089726" lon="127.35985211857904" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="24" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37084932663025" lon="127.35969583922156" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="25" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3709003695233" lon="127.35960961995283" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="26" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370988981885716" lon="127.35943650717043" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="27" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37105070507145" lon="127.35933209614149" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="28" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37125325330567" lon="127.35894394220065" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="29" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37140263330141" lon="127.35855579627777" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="30" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371456723230885" lon="127.35841580203387" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="31" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37152474277266" lon="127.35816805524607" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="32" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371600953754644" lon="127.35783358355732" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="33" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37167362646213" lon="127.35758174971822" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="34" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37179020814845" lon="127.35731070280248" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="35" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37189423891682" lon="127.35711554175545" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="36" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37201012332158" lon="127.35696572527334" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="37" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37225209469274" lon="127.356690747003" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="38" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37236755959743" lon="127.35669128425003" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="39" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37241898005138" lon="127.35657967998057" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="40" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37263288847695" lon="127.3564612584865" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="41" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37287044970881" lon="127.35635826264141" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37317733567653" lon="127.35630673436198" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="43" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37333841684013" lon="127.35631063728434" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="44" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373398061822236" lon="127.35639758870985" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="45" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373518984945726" lon="127.35640230617541" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="46" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373537944207236" lon="127.35629031987526" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="47" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37527194816319" lon="127.35629622437285" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="48" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37589324083982" lon="127.35629852340001" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="49" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37641222195415" lon="127.35630569523705" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="50" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37654492178213" lon="127.35630434597645" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="51" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37699128274768" lon="127.35630272358581" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="52" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37725181986436" lon="127.35630093671433" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="53" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37756944264294" lon="127.35636274017443" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="54" uid="7979" user="WWLEE" visible="true" version="1" lat="36.377734692362466" lon="127.35642252554027" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="55" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37816833832833" lon="127.35661088425711" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="56" uid="7979" user="WWLEE" visible="true" version="1" lat="36.366313815695754" lon="127.36350073863504" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="57" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36630120128867" lon="127.36361028447516" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="58" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36635267420092" lon="127.36374330592515" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="59" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36642157264809" lon="127.36402408651598" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="60" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36643635101205" lon="127.36437402595939" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="61" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36647928962932" lon="127.364656451626" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="62" uid="7979" user="WWLEE" visible="true" version="1" lat="36.366558749336974" lon="127.36485627220061" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="63" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36662925363675" lon="127.36498204674453" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="64" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36688840257156" lon="127.36546645176988" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="65" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367011452867246" lon="127.36543668182351" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="66" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36759366656558" lon="127.36493063985486" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="67" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36765195954208" lon="127.36486907711115" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="68" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3678596858177" lon="127.3647058425348" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="69" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36793591409949" lon="127.36464810390235" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="70" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36799053397012" lon="127.36454556653517" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="71" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36832458726258" lon="127.36430673159997" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="72" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36842592488015" lon="127.36423296232395" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="73" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36862427466349" lon="127.36407851268143" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="74" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36878325075431" lon="127.36391783739613" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="75" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36863040690439" lon="127.36358033232979" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="76" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36855701268802" lon="127.36330749222488" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="77" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36878984169527" lon="127.36303618605325" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="78" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36873739203058" lon="127.36288260279328" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="79" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369241835977874" lon="127.36247043330033" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="80" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36920327932971" lon="127.36238613921782" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="81" uid="7979" user="WWLEE" visible="true" version="1" lat="36.368884520064206" lon="127.36261906350163" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="82" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36871016550872" lon="127.36275766085204" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="83" uid="7979" user="WWLEE" visible="true" version="1" lat="36.368394781661124" lon="127.36310299273994" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="84" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36803042558915" lon="127.36340172031147" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="85" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36782245035579" lon="127.3634668338515" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="86" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36756905421954" lon="127.36340949437069" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="87" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367239725641774" lon="127.36275146310197" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="88" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36863040690439" lon="127.36358033232979" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="89" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36783031668296" lon="127.36417307325068" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="90" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367670086879635" lon="127.36361416675317" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="91" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36756905421954" lon="127.36340949437069" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="92" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367670086879635" lon="127.36361416675317" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="93" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36756867360404" lon="127.36370121535388" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="94" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36783031668296" lon="127.36417307325068" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="95" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36799053397012" lon="127.36454556653517" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="96" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36688840257156" lon="127.36546645176988" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="97" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367017662611424" lon="127.36569150057174" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="98" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3675152501953" lon="127.36664921795354" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="99" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36583395993069" lon="127.36392344140513" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="100" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36579438306904" lon="127.36434564069587" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="101" uid="7979" user="WWLEE" visible="true" version="1" lat="36.365921139000505" lon="127.36469670769397" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="102" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36607523392514" lon="127.36508967256661" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="103" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36633431147005" lon="127.36556850584167" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="104" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3666348985551" lon="127.36606574734454" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="105" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36689811308457" lon="127.36648861518583" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="106" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367135653973" lon="127.36681385142755" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="107" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36740599010783" lon="127.36720147130795" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="108" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367578033262504" lon="127.3674477367882" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="109" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36780380257802" lon="127.36779411470408" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="110" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36805641484602" lon="127.36816968031596" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="111" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36834865814458" lon="127.36859572362611" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="112" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3687001316348" lon="127.36914513195866" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="113" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36903181100023" lon="127.36965630012253" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="114" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369332448082545" lon="127.37007384640249" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="115" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369501382716095" lon="127.37010746187549" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="116" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36962490254185" lon="127.37000173423303" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="117" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369991604291634" lon="127.36941119250318" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="118" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37038042178847" lon="127.36878820383826" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="119" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370775807137356" lon="127.36817475349355" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="120" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37079219883609" lon="127.36803470683914" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="121" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370862127093126" lon="127.36800286108371" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="122" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3709538417893" lon="127.36804183736682" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="123" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37126907143733" lon="127.36791289481576" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="124" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371650689476446" lon="127.36782874820678" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="125" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3721701684962" lon="127.36770707518436" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="126" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37267524392344" lon="127.36757854307412" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="127" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37301213597581" lon="127.36743393739624" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="128" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373347886037536" lon="127.36681882883406" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="129" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37352036403249" lon="127.36680170683026" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="130" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373658861701166" lon="127.366901411614" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="131" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37409178231084" lon="127.36691779787569" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="132" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374553892596325" lon="127.36664242038059" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="133" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37490077090144" lon="127.3662924626432" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="134" uid="7979" user="WWLEE" visible="true" version="1" lat="36.375173552662375" lon="127.36585698919195" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="135" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37528215917197" lon="127.36565495354627" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="136" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37553286837149" lon="127.36506554808578" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="137" uid="7979" user="WWLEE" visible="true" version="1" lat="36.375316219870896" lon="127.36451348675133" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="138" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37537742273972" lon="127.3643984358572" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="139" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37563141228867" lon="127.36435976225722" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="140" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37577715325284" lon="127.36364915125888" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="141" uid="7979" user="WWLEE" visible="true" version="1" lat="36.375915421554616" lon="127.36296910477627" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="142" uid="7979" user="WWLEE" visible="true" version="1" lat="36.376158985765606" lon="127.36223417974583" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="143" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37651427344904" lon="127.36136542189894" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="144" uid="7979" user="WWLEE" visible="true" version="1" lat="36.376671995664914" lon="127.36112291903679" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="145" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37687180817537" lon="127.36077868392846" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="146" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37712701364335" lon="127.36035248693963" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="147" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37755787024318" lon="127.35967260046847" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="148" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37816862876041" lon="127.35868688946044" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="149" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36616891201846" lon="127.36332644918662" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="150" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3669094202839" lon="127.36274561601533" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="151" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367080164989055" lon="127.36261922611001" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="152" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36717870761328" lon="127.36255936127462" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="153" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367888833230474" lon="127.36212940840052" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="154" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36803653698544" lon="127.3620279896657" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="155" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36820373088451" lon="127.36193632025052" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="156" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36854627240566" lon="127.36173490764577" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="157" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36894124885312" lon="127.3614562318484" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="158" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36939044822547" lon="127.36109925429709" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="159" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36973352347414" lon="127.36079289750506" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="160" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369899917448286" lon="127.36063712019435" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="161" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370176007794186" lon="127.36031655071677" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="162" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37029147275916" lon="127.3601663583634" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="163" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37046893669066" lon="127.35992460266405" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="164" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370574306336714" lon="127.35978959266917" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="165" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37068025246392" lon="127.35964284292716" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="166" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370733963143515" lon="127.35955184051627" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="167" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37086717129734" lon="127.35935003175555" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="168" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37093791910807" lon="127.35920971522783" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="169" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371089015601456" lon="127.35888963760348" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="170" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37126381869597" lon="127.35850643861988" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="171" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37132641048369" lon="127.35832842734074" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="172" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37148378023046" lon="127.35778835046047" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="173" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37169285002052" lon="127.35716512044955" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="174" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37175611738884" lon="127.3570252752326" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="175" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37188480310619" lon="127.3568406634425" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="176" uid="7979" user="WWLEE" visible="true" version="1" lat="36.372186526781306" lon="127.35652175892967" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="177" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37225205650428" lon="127.35645831379102" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="178" uid="7979" user="WWLEE" visible="true" version="1" lat="36.372529141014304" lon="127.35626622531377" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="179" uid="7979" user="WWLEE" visible="true" version="1" lat="36.372563815548006" lon="127.35602554168752" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="180" uid="7979" user="WWLEE" visible="true" version="1" lat="36.372754984963656" lon="127.35602092070079" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="181" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37279585324743" lon="127.35606180742195" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="182" uid="7979" user="WWLEE" visible="true" version="1" lat="36.372987075729796" lon="127.35604080959449" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="183" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37340616976568" lon="127.35605203546116" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="184" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37362884756111" lon="127.35609069749573" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="185" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373921367652024" lon="127.35609925632518" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="186" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37430954433052" lon="127.35609800735374" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="187" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37528122993755" lon="127.35610438728199" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="188" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37534864090324" lon="127.35600428964675" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="189" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37545716019798" lon="127.35600524182146" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="190" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37562037212669" lon="127.35600602179322" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="191" uid="7979" user="WWLEE" visible="true" version="1" lat="36.375748466354565" lon="127.35600735669172" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="192" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37581730102038" lon="127.35611111340495" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="193" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37639838431988" lon="127.35610291089512" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="194" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37688548601075" lon="127.35611431328394" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="195" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37736740962125" lon="127.35612331674452" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="196" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37756271464464" lon="127.35615136767885" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="197" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37790166970362" lon="127.35625861805698" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="198" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37801797835858" lon="127.35632478007756" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="199" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37816159897107" lon="127.3564231997959" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="200" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37169285002052" lon="127.35716512044955" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="201" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37156077654045" lon="127.35697052518256" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="202" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37147955992701" lon="127.35667207672806" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="203" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37141996146033" lon="127.35626249753635" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="204" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371422136152155" lon="127.35610810694209" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="205" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37141895524463" lon="127.3554911026965" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="206" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37141051165654" lon="127.35534075597616" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="207" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37128326284423" lon="127.35529627212613" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="208" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37088970349818" lon="127.35527794762477" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="209" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37078109063649" lon="127.35528197243893" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="210" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370178270132264" lon="127.3552824473054" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="211" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3700615418134" lon="127.35527533156886" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="212" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36968919521703" lon="127.35534128316499" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="213" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3693673604488" lon="127.35553385062764" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="214" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36925446667604" lon="127.35561173886704" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="215" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36871612793719" lon="127.35596064983169" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="216" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36860170924716" lon="127.35603439082088" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="217" uid="7979" user="WWLEE" visible="true" version="1" lat="36.368048158317" lon="127.35639523226024" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="218" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36792630337467" lon="127.35647376445776" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="219" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36702612106215" lon="127.357063277868" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="220" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36691943798679" lon="127.35713814763518" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36635519451646" lon="127.35749626079047" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="222" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36629542219416" lon="127.3575421759017" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="223" uid="7979" user="WWLEE" visible="true" version="1" lat="36.365995759834306" lon="127.3577463138227" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="224" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36587281116887" lon="127.3578072081515" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="225" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36490438192747" lon="127.35845111318625" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="226" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364782657222655" lon="127.35852881432074" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="227" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36446753337032" lon="127.35873809333847" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="228" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364322463432664" lon="127.35883799263826" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="229" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36364128414124" lon="127.35943942701863" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="230" uid="7979" user="WWLEE" visible="true" version="1" lat="36.363638356963655" lon="127.35956279009997" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="231" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3641265520391" lon="127.36046139001711" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="232" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364256503500044" lon="127.36055572597041" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="233" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36448583215157" lon="127.3606076822621" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="234" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37175611738884" lon="127.3570252752326" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="235" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3716302037555" lon="127.35693241727373" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="236" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37150115938118" lon="127.3563391567392" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="237" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371505151705485" lon="127.35619679969838" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="238" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37149793284431" lon="127.35603079005031" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="239" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37149801717035" lon="127.35585214503787" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="240" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371500875646866" lon="127.35539101011115" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="241" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37148386261642" lon="127.35525945257189" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="242" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37122178298029" lon="127.35516920902126" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="243" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370605264216366" lon="127.3551591787765" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="244" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37051061894244" lon="127.35514784738758" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="245" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369868997447014" lon="127.35517182315726" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="246" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36956497665413" lon="127.35527074979683" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="247" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3691888348237" lon="127.3555071223972" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="248" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36872157539283" lon="127.35581728444942" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="249" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36837489003243" lon="127.35603750084114" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="250" uid="7979" user="WWLEE" visible="true" version="1" lat="36.367860374227845" lon="127.356380022431" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="251" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36716076897455" lon="127.35682944227777" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="252" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36627293286675" lon="127.3574186756276" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="253" uid="7979" user="WWLEE" visible="true" version="1" lat="36.365483054220995" lon="127.35794175006606" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="254" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3646126845566" lon="127.35851476861802" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="255" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36449216569901" lon="127.35858945594008" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="256" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364171546672274" lon="127.35883003482051" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="257" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36358838036522" lon="127.35935397296682" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="258" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36336257308427" lon="127.35954497594588" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="259" uid="7979" user="WWLEE" visible="true" version="1" lat="36.363302204961094" lon="127.35957642956362" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="260" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36616891201846" lon="127.36332644918662" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="261" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36606816739813" lon="127.36322015794813" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="262" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36578412309335" lon="127.36292453052755" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="263" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36566981030568" lon="127.36286949284955" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="264" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36540272338245" lon="127.36253730870304" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="265" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36533136931549" lon="127.36240135090002" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="266" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36507022590427" lon="127.3618901226823" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="267" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36499968785682" lon="127.3617724949797" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="268" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36480110097163" lon="127.36140435875318" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="269" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364745839780674" lon="127.36127541479681" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="270" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36452765217503" lon="127.36089498829155" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="271" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364505836927734" lon="127.36082389197513" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="272" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36454473138172" lon="127.36070362260446" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="273" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364732245055734" lon="127.36060640064284" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="274" uid="7979" user="WWLEE" visible="true" version="1" lat="36.366051242879024" lon="127.36343027397342" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="275" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36600722282012" lon="127.36328312048977" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="276" uid="7979" user="WWLEE" visible="true" version="1" lat="36.365811521144536" lon="127.36307930133779" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="277" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36563217612208" lon="127.36297376706176" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="278" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3655197743048" lon="127.36311110323541" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="279" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36537204837065" lon="127.36297256687772" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="280" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36523027103827" lon="127.36276843504079" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="281" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36505196742855" lon="127.3624513864236" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="282" uid="7979" user="WWLEE" visible="true" version="1" lat="36.365020788429206" lon="127.3622426093363" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="283" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36460967828988" lon="127.3614666252553" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="284" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36465540417165" lon="127.36141276255564" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="285" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36463654167439" lon="127.36128494371322" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="286" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36444903814758" lon="127.36094539036955" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="287" uid="7979" user="WWLEE" visible="true" version="1" lat="36.364317681155626" lon="127.36069947564845" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="288" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36412349137785" lon="127.36056843390742" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="289" uid="7979" user="WWLEE" visible="true" version="1" lat="36.363724599881216" lon="127.359892002876" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="290" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3635248738675" lon="127.3595359897623" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="291" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36336847209493" lon="127.359654381072" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="292" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36336921488129" lon="127.35973128623104" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="293" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3638190728422" lon="127.36039904489913" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="294" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36424807925297" lon="127.3611671010541" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="295" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36461602222794" lon="127.36190141660474" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="296" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36496951035833" lon="127.36257947326675" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="297" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36524572062187" lon="127.36315592543093" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="298" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36543575564212" lon="127.36358110837152" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="299" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3656917083912" lon="127.36369213904554" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="300" uid="7979" user="WWLEE" visible="true" version="1" lat="36.366051242879024" lon="127.36343027397342" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="301" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36827638647628" lon="127.3621138359625" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="302" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36854764868639" lon="127.36222762665517" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="303" uid="7979" user="WWLEE" visible="true" version="1" lat="36.368758536329885" lon="127.36245282407643" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="304" uid="7979" user="WWLEE" visible="true" version="1" lat="36.368965044585366" lon="127.36248288136143" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="305" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36920327932971" lon="127.36238613921782" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="306" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36945349446295" lon="127.3621570174018" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="307" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3699221748256" lon="127.36179064245228" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="308" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37020143208257" lon="127.36155351920834" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="309" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37018844768982" lon="127.36126687157534" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="310" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37020143208257" lon="127.36155351920834" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="311" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37041027975082" lon="127.36168534600554" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="312" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37049487267783" lon="127.36153146056961" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="313" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37043358247664" lon="127.36135716462539" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="314" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37032280339218" lon="127.36123516183976" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="315" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37018844768982" lon="127.36126687157534" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="316" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37018844768982" lon="127.36126687157534" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="317" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37032280339218" lon="127.36123516183976" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="318" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37043358247664" lon="127.36135716462539" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="319" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37049487267783" lon="127.36153146056961" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="320" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37041027975082" lon="127.36168534600554" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="321" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36918725600888" lon="127.36149275315411" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="322" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369177096772574" lon="127.36160560108438" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="323" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36945349446295" lon="127.3621570174018" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="324" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369064164972336" lon="127.36159703813134" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="325" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369177096772574" lon="127.36160560108438" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="326" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36945349446295" lon="127.3621570174018" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="327" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373347886037536" lon="127.36681882883406" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="328" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37337161847388" lon="127.36666559754688" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="329" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373374971626795" lon="127.36657926532467" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="330" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37337622239484" lon="127.3660756666152" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="331" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37337069967171" lon="127.36557569479704" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="332" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37332411374797" lon="127.3653802308625" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="333" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37307226139466" lon="127.36503819042194" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="334" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37295142960394" lon="127.3648954364768" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="335" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37284713255146" lon="127.36477062533822" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="336" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3724708219913" lon="127.36426503335754" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="337" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37240725737662" lon="127.36400419432775" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="338" uid="7979" user="WWLEE" visible="true" version="1" lat="36.372208105525395" lon="127.36398641737784" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="339" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37211877959425" lon="127.36387652177613" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="340" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37352036403249" lon="127.36680170683026" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="341" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37352556910671" lon="127.36668026628598" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="342" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37352360838084" lon="127.36608742297821" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="343" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37353233629774" lon="127.3655834990453" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="344" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37356186078932" lon="127.36538735544896" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="345" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37401830792116" lon="127.36480330764992" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="346" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37409041845315" lon="127.36481457740112" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="347" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37413669381557" lon="127.36473347305032" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="348" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374144381778926" lon="127.3646624439835" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="349" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374228111967014" lon="127.36454468205629" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="350" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374317301383904" lon="127.3644510064684" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="351" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37443661021179" lon="127.36426426152755" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="352" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37448669309664" lon="127.36407447386519" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="353" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374504169007814" lon="127.3637338087507" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="354" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3745040201552" lon="127.36346589663201" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="355" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37451009782968" lon="127.36289095608964" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="356" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37453579269469" lon="127.36233120089345" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="357" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37452933649015" lon="127.36159022445682" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="358" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374551888925666" lon="127.36070338829735" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="359" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37449422372467" lon="127.35970957961999" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="360" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37416922542286" lon="127.35930537076116" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="361" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374138084110115" lon="127.35891442948332" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="362" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374060752428754" lon="127.35885112132792" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="363" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373526302406034" lon="127.35885101590868" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="364" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37348809797066" lon="127.35879394228724" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="365" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373492325741715" lon="127.35831360435465" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="366" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37350136420111" lon="127.35753170983156" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="367" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3735120025715" lon="127.35681875038476" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="368" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373518984945726" lon="127.35640230617541" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="369" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37281345731123" lon="127.36387107028713" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="370" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37278499427163" lon="127.36444248651243" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="371" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37294560482425" lon="127.36466136144278" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="372" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373382470399754" lon="127.36518420779694" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="373" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37353639527745" lon="127.3651759614978" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="374" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37409872158148" lon="127.36446467354509" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="375" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37423240004706" lon="127.36432634794159" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="376" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37439120747411" lon="127.36408077736046" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="377" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374427892604594" lon="127.36291549924998" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="378" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37442964208825" lon="127.36229618711644" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="379" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37442886388692" lon="127.36110708327769" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="380" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37441909263287" lon="127.36098111303527" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="381" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3744250139374" lon="127.36079239585295" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="382" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37442439269939" lon="127.35982508188647" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="383" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37407886841326" lon="127.35939182449151" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="384" uid="7979" user="WWLEE" visible="true" version="1" lat="36.374060752428754" lon="127.35885112132792" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="385" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373398061822236" lon="127.35639758870985" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="386" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37341205135595" lon="127.35681788671968" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="387" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37339878442973" lon="127.3575423038568" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="388" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373392176992944" lon="127.35831442422075" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="389" uid="7979" user="WWLEE" visible="true" version="1" lat="36.373390987235155" lon="127.35878642999742" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="390" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37338068829942" lon="127.3595517480948" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="391" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371031169211136" lon="127.35949472158985" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="392" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3709003695233" lon="127.35960961995283" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="393" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37339741020414" lon="127.35966591177646" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="394" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37338068829942" lon="127.3595517480948" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="395" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36878325075431" lon="127.36391783739613" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="396" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36893792100042" lon="127.36421825413288" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="397" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36914990729264" lon="127.3642489474582" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="398" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36920779553523" lon="127.36409919986242" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="399" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36935235120999" lon="127.36394714520516" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="400" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36935468740151" lon="127.36387947050441" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="401" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36940459453307" lon="127.3638404185898" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="402" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36945799750691" lon="127.36387318374113" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="403" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3695671860176" lon="127.3637697159217" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="404" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36965994826261" lon="127.3637022703063" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="405" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36981021618848" lon="127.36354182517296" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="406" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36988434939895" lon="127.36348306181624" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="407" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37026765402375" lon="127.36318931755571" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="408" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3703542188109" lon="127.36313320109433" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="409" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370636903880936" lon="127.36312102520485" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="410" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37066732432661" lon="127.36304782192143" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="411" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37077129328356" lon="127.36255143240156" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="412" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370415211385286" lon="127.3620084346408" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="413" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37012554408427" lon="127.36218036417658" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="414" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37000061673354" lon="127.36231086224545" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="415" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370120210616065" lon="127.36258229946816" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="416" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369601741884665" lon="127.36294434570054" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="417" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36951521789337" lon="127.36301685023685" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="418" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36909317134743" lon="127.36329668783732" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="419" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369030159940614" lon="127.36320283353409" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="420" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36888984231286" lon="127.36331022193626" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="421" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36863040690439" lon="127.36358033232979" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="422" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369601741884665" lon="127.36294434570054" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="423" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36988434939895" lon="127.36348306181624" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="424" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36951521789337" lon="127.36301685023685" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="425" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36981021618848" lon="127.36354182517296" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="426" uid="7979" user="WWLEE" visible="true" version="1" lat="36.368758536329885" lon="127.36245282407643" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="427" uid="7979" user="WWLEE" visible="true" version="1" lat="36.368884520064206" lon="127.36261906350163" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="428" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36893792100042" lon="127.36421825413288" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="429" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36909117285773" lon="127.36452647516455" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="430" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369158883617466" lon="127.36475538366277" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="431" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36916534946506" lon="127.36464951671401" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="432" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36920846910728" lon="127.36447630940687" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="433" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36926478703855" lon="127.36414193388741" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="434" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369377938694804" lon="127.36401190765413" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="435" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36958731901774" lon="127.36384903091118" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="436" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36969694912568" lon="127.36375438869948" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="437" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36985017234705" lon="127.36363784546265" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="438" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36992168205316" lon="127.36357320339505" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="439" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37031840882824" lon="127.3632570403012" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="440" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37065324438437" lon="127.36323657894398" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="441" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370701034900215" lon="127.36383167498046" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="442" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37074911006304" lon="127.36412017743345" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="443" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370790775444235" lon="127.36431508036291" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="444" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37083490361936" lon="127.3644581668663" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="445" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371091926664675" lon="127.36496156348119" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="446" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371096258242176" lon="127.36515943051796" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="447" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37104539622569" lon="127.36528689991921" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="448" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370724669336376" lon="127.36555197890684" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="449" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37064224946489" lon="127.3656143862126" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="450" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37036835967037" lon="127.36583924758786" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="451" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37028517664026" lon="127.36591676923744" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="452" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36998964849036" lon="127.36611870604496" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="453" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36995347128942" lon="127.36604954503818" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="454" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36987500921023" lon="127.36588404594715" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="455" uid="7979" user="WWLEE" visible="true" version="1" lat="36.36980936615442" lon="127.36592935147041" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="456" uid="7979" user="WWLEE" visible="true" version="1" lat="36.369158883617466" lon="127.36475538366277" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="457" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37043358247664" lon="127.36135716462539" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="458" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370747391375744" lon="127.3611041449894" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="459" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37122346666817" lon="127.36071523739302" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="460" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37146528861383" lon="127.36124631294531" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="461" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371449204265225" lon="127.36139892807489" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="462" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37136712718241" lon="127.36147125286816" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="463" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37113514955453" lon="127.36182304171497" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="464" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37083891939786" lon="127.36239459464468" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="465" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37062092688845" lon="127.36210799875428" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="466" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37052325094223" lon="127.36192284713714" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="467" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37041027975082" lon="127.36168534600554" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="468" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370747391375744" lon="127.3611041449894" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="469" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37032560290866" lon="127.36040260734076" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="470" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370747391375744" lon="127.3611041449894" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="471" uid="7979" user="WWLEE" visible="true" version="1" lat="36.370949063351404" lon="127.36159248315946" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="472" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37108585005768" lon="127.36176889754746" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="473" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37062092688845" lon="127.36210799875428" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="474" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37094999678614" lon="127.36438840394524" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="475" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37087760745199" lon="127.36423890111348" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="476" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37082023796771" lon="127.36410514458647" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="477" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37077006299068" lon="127.36381948798487" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="478" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37076369291712" lon="127.36323868424043" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="479" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37078072303678" lon="127.36307998658307" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="480" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3709547912528" lon="127.36240525048674" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="481" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37126154621904" lon="127.36191767267763" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="482" uid="7979" user="WWLEE" visible="true" version="1" lat="36.37138669121514" lon="127.36176169854778" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="483" uid="7979" user="WWLEE" visible="true" version="1" lat="36.371453997101476" lon="127.36163654506731" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="484" uid="7979" user="WWLEE" visible="true" version="1" lat="36.3715441178003" lon="127.3615077139326" changeset="5607642" address="null">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <way id="20000" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="1"/>
+    <nd ref="2"/>
+    <nd ref="3"/>
+    <nd ref="4"/>
+    <nd ref="5"/>
+    <nd ref="6"/>
+    <nd ref="7"/>
+    <nd ref="8"/>
+    <nd ref="9"/>
+    <nd ref="10"/>
+    <nd ref="11"/>
+    <nd ref="12"/>
+    <nd ref="13"/>
+    <nd ref="14"/>
+    <nd ref="15"/>
+    <nd ref="16"/>
+    <nd ref="17"/>
+    <nd ref="18"/>
+    <nd ref="19"/>
+    <nd ref="20"/>
+    <nd ref="21"/>
+    <nd ref="22"/>
+    <nd ref="23"/>
+    <nd ref="24"/>
+    <nd ref="25"/>
+    <nd ref="26"/>
+    <nd ref="27"/>
+    <nd ref="28"/>
+    <nd ref="29"/>
+    <nd ref="30"/>
+    <nd ref="31"/>
+    <nd ref="32"/>
+    <nd ref="33"/>
+    <nd ref="34"/>
+    <nd ref="35"/>
+    <nd ref="36"/>
+    <nd ref="37"/>
+    <nd ref="38"/>
+    <nd ref="39"/>
+    <nd ref="40"/>
+    <nd ref="41"/>
+    <nd ref="42"/>
+    <nd ref="43"/>
+    <nd ref="44"/>
+    <nd ref="45"/>
+    <nd ref="46"/>
+    <nd ref="47"/>
+    <nd ref="48"/>
+    <nd ref="49"/>
+    <nd ref="50"/>
+    <nd ref="51"/>
+    <nd ref="52"/>
+    <nd ref="53"/>
+    <nd ref="54"/>
+    <nd ref="55"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20001" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="56"/>
+    <nd ref="57"/>
+    <nd ref="58"/>
+    <nd ref="59"/>
+    <nd ref="60"/>
+    <nd ref="61"/>
+    <nd ref="62"/>
+    <nd ref="63"/>
+    <nd ref="64"/>
+    <nd ref="65"/>
+    <nd ref="66"/>
+    <nd ref="67"/>
+    <nd ref="68"/>
+    <nd ref="69"/>
+    <nd ref="70"/>
+    <nd ref="71"/>
+    <nd ref="72"/>
+    <nd ref="73"/>
+    <nd ref="74"/>
+    <nd ref="75"/>
+    <nd ref="76"/>
+    <nd ref="77"/>
+    <nd ref="78"/>
+    <nd ref="79"/>
+    <nd ref="80"/>
+    <nd ref="81"/>
+    <nd ref="82"/>
+    <nd ref="83"/>
+    <nd ref="84"/>
+    <nd ref="85"/>
+    <nd ref="86"/>
+    <nd ref="87"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20002" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="88"/>
+    <nd ref="89"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20003" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="90"/>
+    <nd ref="91"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20004" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="92"/>
+    <nd ref="93"/>
+    <nd ref="94"/>
+    <nd ref="95"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20005" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="96"/>
+    <nd ref="97"/>
+    <nd ref="98"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20006" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="99"/>
+    <nd ref="100"/>
+    <nd ref="101"/>
+    <nd ref="102"/>
+    <nd ref="103"/>
+    <nd ref="104"/>
+    <nd ref="105"/>
+    <nd ref="106"/>
+    <nd ref="107"/>
+    <nd ref="108"/>
+    <nd ref="109"/>
+    <nd ref="110"/>
+    <nd ref="111"/>
+    <nd ref="112"/>
+    <nd ref="113"/>
+    <nd ref="114"/>
+    <nd ref="115"/>
+    <nd ref="116"/>
+    <nd ref="117"/>
+    <nd ref="118"/>
+    <nd ref="119"/>
+    <nd ref="120"/>
+    <nd ref="121"/>
+    <nd ref="122"/>
+    <nd ref="123"/>
+    <nd ref="124"/>
+    <nd ref="125"/>
+    <nd ref="126"/>
+    <nd ref="127"/>
+    <nd ref="128"/>
+    <nd ref="129"/>
+    <nd ref="130"/>
+    <nd ref="131"/>
+    <nd ref="132"/>
+    <nd ref="133"/>
+    <nd ref="134"/>
+    <nd ref="135"/>
+    <nd ref="136"/>
+    <nd ref="137"/>
+    <nd ref="138"/>
+    <nd ref="139"/>
+    <nd ref="140"/>
+    <nd ref="141"/>
+    <nd ref="142"/>
+    <nd ref="143"/>
+    <nd ref="144"/>
+    <nd ref="145"/>
+    <nd ref="146"/>
+    <nd ref="147"/>
+    <nd ref="148"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20007" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="149"/>
+    <nd ref="150"/>
+    <nd ref="151"/>
+    <nd ref="152"/>
+    <nd ref="153"/>
+    <nd ref="154"/>
+    <nd ref="155"/>
+    <nd ref="156"/>
+    <nd ref="157"/>
+    <nd ref="158"/>
+    <nd ref="159"/>
+    <nd ref="160"/>
+    <nd ref="161"/>
+    <nd ref="162"/>
+    <nd ref="163"/>
+    <nd ref="164"/>
+    <nd ref="165"/>
+    <nd ref="166"/>
+    <nd ref="167"/>
+    <nd ref="168"/>
+    <nd ref="169"/>
+    <nd ref="170"/>
+    <nd ref="171"/>
+    <nd ref="172"/>
+    <nd ref="173"/>
+    <nd ref="174"/>
+    <nd ref="175"/>
+    <nd ref="176"/>
+    <nd ref="177"/>
+    <nd ref="178"/>
+    <nd ref="179"/>
+    <nd ref="180"/>
+    <nd ref="181"/>
+    <nd ref="182"/>
+    <nd ref="183"/>
+    <nd ref="184"/>
+    <nd ref="185"/>
+    <nd ref="186"/>
+    <nd ref="187"/>
+    <nd ref="188"/>
+    <nd ref="189"/>
+    <nd ref="190"/>
+    <nd ref="191"/>
+    <nd ref="192"/>
+    <nd ref="193"/>
+    <nd ref="194"/>
+    <nd ref="195"/>
+    <nd ref="196"/>
+    <nd ref="197"/>
+    <nd ref="198"/>
+    <nd ref="199"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20008" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="200"/>
+    <nd ref="201"/>
+    <nd ref="202"/>
+    <nd ref="203"/>
+    <nd ref="204"/>
+    <nd ref="205"/>
+    <nd ref="206"/>
+    <nd ref="207"/>
+    <nd ref="208"/>
+    <nd ref="209"/>
+    <nd ref="210"/>
+    <nd ref="211"/>
+    <nd ref="212"/>
+    <nd ref="213"/>
+    <nd ref="214"/>
+    <nd ref="215"/>
+    <nd ref="216"/>
+    <nd ref="217"/>
+    <nd ref="218"/>
+    <nd ref="219"/>
+    <nd ref="220"/>
+    <nd ref="221"/>
+    <nd ref="222"/>
+    <nd ref="223"/>
+    <nd ref="224"/>
+    <nd ref="225"/>
+    <nd ref="226"/>
+    <nd ref="227"/>
+    <nd ref="228"/>
+    <nd ref="229"/>
+    <nd ref="230"/>
+    <nd ref="231"/>
+    <nd ref="232"/>
+    <nd ref="233"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20009" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="234"/>
+    <nd ref="235"/>
+    <nd ref="236"/>
+    <nd ref="237"/>
+    <nd ref="238"/>
+    <nd ref="239"/>
+    <nd ref="240"/>
+    <nd ref="241"/>
+    <nd ref="242"/>
+    <nd ref="243"/>
+    <nd ref="244"/>
+    <nd ref="245"/>
+    <nd ref="246"/>
+    <nd ref="247"/>
+    <nd ref="248"/>
+    <nd ref="249"/>
+    <nd ref="250"/>
+    <nd ref="251"/>
+    <nd ref="252"/>
+    <nd ref="253"/>
+    <nd ref="254"/>
+    <nd ref="255"/>
+    <nd ref="256"/>
+    <nd ref="257"/>
+    <nd ref="258"/>
+    <nd ref="259"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20010" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="260"/>
+    <nd ref="261"/>
+    <nd ref="262"/>
+    <nd ref="263"/>
+    <nd ref="264"/>
+    <nd ref="265"/>
+    <nd ref="266"/>
+    <nd ref="267"/>
+    <nd ref="268"/>
+    <nd ref="269"/>
+    <nd ref="270"/>
+    <nd ref="271"/>
+    <nd ref="272"/>
+    <nd ref="273"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20011" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="274"/>
+    <nd ref="275"/>
+    <nd ref="276"/>
+    <nd ref="277"/>
+    <nd ref="278"/>
+    <nd ref="279"/>
+    <nd ref="280"/>
+    <nd ref="281"/>
+    <nd ref="282"/>
+    <nd ref="283"/>
+    <nd ref="284"/>
+    <nd ref="285"/>
+    <nd ref="286"/>
+    <nd ref="287"/>
+    <nd ref="288"/>
+    <nd ref="289"/>
+    <nd ref="290"/>
+    <nd ref="291"/>
+    <nd ref="292"/>
+    <nd ref="293"/>
+    <nd ref="294"/>
+    <nd ref="295"/>
+    <nd ref="296"/>
+    <nd ref="297"/>
+    <nd ref="298"/>
+    <nd ref="299"/>
+    <nd ref="300"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20012" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="301"/>
+    <nd ref="302"/>
+    <nd ref="303"/>
+    <nd ref="304"/>
+    <nd ref="305"/>
+    <nd ref="306"/>
+    <nd ref="307"/>
+    <nd ref="308"/>
+    <nd ref="309"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20013" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="310"/>
+    <nd ref="311"/>
+    <nd ref="312"/>
+    <nd ref="313"/>
+    <nd ref="314"/>
+    <nd ref="315"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20014" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="316"/>
+    <nd ref="317"/>
+    <nd ref="318"/>
+    <nd ref="319"/>
+    <nd ref="320"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20015" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="321"/>
+    <nd ref="322"/>
+    <nd ref="323"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20016" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="324"/>
+    <nd ref="325"/>
+    <nd ref="326"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20017" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="327"/>
+    <nd ref="328"/>
+    <nd ref="329"/>
+    <nd ref="330"/>
+    <nd ref="331"/>
+    <nd ref="332"/>
+    <nd ref="333"/>
+    <nd ref="334"/>
+    <nd ref="335"/>
+    <nd ref="336"/>
+    <nd ref="337"/>
+    <nd ref="338"/>
+    <nd ref="339"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20018" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="340"/>
+    <nd ref="341"/>
+    <nd ref="342"/>
+    <nd ref="343"/>
+    <nd ref="344"/>
+    <nd ref="345"/>
+    <nd ref="346"/>
+    <nd ref="347"/>
+    <nd ref="348"/>
+    <nd ref="349"/>
+    <nd ref="350"/>
+    <nd ref="351"/>
+    <nd ref="352"/>
+    <nd ref="353"/>
+    <nd ref="354"/>
+    <nd ref="355"/>
+    <nd ref="356"/>
+    <nd ref="357"/>
+    <nd ref="358"/>
+    <nd ref="359"/>
+    <nd ref="360"/>
+    <nd ref="361"/>
+    <nd ref="362"/>
+    <nd ref="363"/>
+    <nd ref="364"/>
+    <nd ref="365"/>
+    <nd ref="366"/>
+    <nd ref="367"/>
+    <nd ref="368"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20019" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="369"/>
+    <nd ref="370"/>
+    <nd ref="371"/>
+    <nd ref="372"/>
+    <nd ref="373"/>
+    <nd ref="374"/>
+    <nd ref="375"/>
+    <nd ref="376"/>
+    <nd ref="377"/>
+    <nd ref="378"/>
+    <nd ref="379"/>
+    <nd ref="380"/>
+    <nd ref="381"/>
+    <nd ref="382"/>
+    <nd ref="383"/>
+    <nd ref="384"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20020" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="385"/>
+    <nd ref="386"/>
+    <nd ref="387"/>
+    <nd ref="388"/>
+    <nd ref="389"/>
+    <nd ref="390"/>
+    <nd ref="391"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20021" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="392"/>
+    <nd ref="393"/>
+    <nd ref="394"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20022" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="395"/>
+    <nd ref="396"/>
+    <nd ref="397"/>
+    <nd ref="398"/>
+    <nd ref="399"/>
+    <nd ref="400"/>
+    <nd ref="401"/>
+    <nd ref="402"/>
+    <nd ref="403"/>
+    <nd ref="404"/>
+    <nd ref="405"/>
+    <nd ref="406"/>
+    <nd ref="407"/>
+    <nd ref="408"/>
+    <nd ref="409"/>
+    <nd ref="410"/>
+    <nd ref="411"/>
+    <nd ref="412"/>
+    <nd ref="413"/>
+    <nd ref="414"/>
+    <nd ref="415"/>
+    <nd ref="416"/>
+    <nd ref="417"/>
+    <nd ref="418"/>
+    <nd ref="419"/>
+    <nd ref="420"/>
+    <nd ref="421"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20023" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="422"/>
+    <nd ref="423"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20024" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="424"/>
+    <nd ref="425"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20025" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="426"/>
+    <nd ref="427"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20026" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="428"/>
+    <nd ref="429"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20027" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="430"/>
+    <nd ref="431"/>
+    <nd ref="432"/>
+    <nd ref="433"/>
+    <nd ref="434"/>
+    <nd ref="435"/>
+    <nd ref="436"/>
+    <nd ref="437"/>
+    <nd ref="438"/>
+    <nd ref="439"/>
+    <nd ref="440"/>
+    <nd ref="441"/>
+    <nd ref="442"/>
+    <nd ref="443"/>
+    <nd ref="444"/>
+    <nd ref="445"/>
+    <nd ref="446"/>
+    <nd ref="447"/>
+    <nd ref="448"/>
+    <nd ref="449"/>
+    <nd ref="450"/>
+    <nd ref="451"/>
+    <nd ref="452"/>
+    <nd ref="453"/>
+    <nd ref="454"/>
+    <nd ref="455"/>
+    <nd ref="456"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20028" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="457"/>
+    <nd ref="458"/>
+    <nd ref="459"/>
+    <nd ref="460"/>
+    <nd ref="461"/>
+    <nd ref="462"/>
+    <nd ref="463"/>
+    <nd ref="464"/>
+    <nd ref="465"/>
+    <nd ref="466"/>
+    <nd ref="467"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20029" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="468"/>
+    <nd ref="469"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20030" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="470"/>
+    <nd ref="471"/>
+    <nd ref="472"/>
+    <nd ref="473"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+  <way id="20031" uid="7979" user="WWLEE" version="1" changeset="5607642" visible="true">
+    <nd ref="474"/>
+    <nd ref="475"/>
+    <nd ref="476"/>
+    <nd ref="477"/>
+    <nd ref="478"/>
+    <nd ref="479"/>
+    <nd ref="480"/>
+    <nd ref="481"/>
+    <nd ref="482"/>
+    <nd ref="483"/>
+    <nd ref="484"/>
+    <tag k="access" v="customer"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="카이동로"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="width" v="1200"/>
+    <tag k="Slope" v="2"/>
+    <tag k="Left-curb" v="0"/>
+    <tag k="Right-curb" v="20"/>
+    <tag k="Pavement" v="concrete"/>
+  </way>
+</osm>
